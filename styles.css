@@ -1,0 +1,253 @@
+body {
+  font-family: "Montserrat";
+  background-color: #c4f0dc;
+}
+
+h1 {
+  font-family: 'Montserrat';
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+h2 {
+  color: #003842;
+  font-family: "Montserrat";
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+h3 {
+  color: #003842;
+  font-family: "Montserrat";
+}
+
+a:hover {
+  color: #FF7BA9;
+}
+
+p {
+  color: grey;
+}
+
+#title {
+  color: #c4f0dc;
+  /*background-color: #c4f0dc;*/
+  background-image: linear-gradient(to top, #c4f0dc, #00C2CB);
+}
+
+.parisa {
+  height: 65%;
+  margin-left: 22%;
+  margin-top: 3rem;
+  padding-bottom: 0;
+  transform: rotate(15deg);
+}
+
+.intro {
+  padding-top: 4rem;
+  padding-right: 0;
+}
+
+.logo {
+  padding-bottom: 5px;
+  width: 7%;
+}
+
+.container-fluid {
+  padding: 3% 20% 0 15%;
+  height: 60%;
+}
+
+.apple {
+  height: 15px;
+}
+
+.play {
+  height: 15px;
+}
+
+.navbar {
+  padding-bottom: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+  color: #c4f0dc;
+}
+
+.nav-link {
+  color: #c4f0dc;
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+}
+
+.nav-link:hover {
+  color: #FF7BA9;
+}
+
+.nav-link:focus {
+  color: #FF7BA9;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.download-button {
+  margin: 10% 3% 5% 0;
+}
+
+#features {
+  margin: 0 15% 15%;
+  background-color: #c4f0dc;
+  padding: 0 2rem;
+}
+
+.easy {
+  padding: 0 2rem;
+  line-height: 2;
+  text-align: center;
+}
+
+.btn-light {
+  background-color: #c4f0dc;
+}
+
+.ic {
+  color: #00C2CB;
+  padding-bottom: 1rem;
+}
+
+.ic:hover {
+  color: #FF7BA9;
+}
+
+.footer-icon:hover {
+  color: #FF7BA9;
+}
+
+.middle {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.col-lg-6 {
+  padding-bottom: 0;
+}
+
+.testimonials-image {
+  width: 8%;
+  border-radius: 100%;
+  margin: 30px;
+}
+
+.target {
+  padding-bottom: 20%;
+  margin-bottom: 20%;
+}
+
+#testimonials {
+  padding: 1px 30px;
+  text-align: center;
+  background-image: linear-gradient(to top, #00C2CB, #c4f0dc);
+}
+
+#press {
+  background-image: linear-gradient(to top, #c4f0dc, #00C2CB);
+  text-align: center;
+  padding: 2% 0 3%;
+}
+
+#pricing {
+  background-image: linear-gradient(to top, #00C2CB, #c4f0dc);
+  padding: 100px 150px;
+  text-align: center;
+}
+
+.pricing-text {
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-family: "Montserrat";
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.companies {
+  width: 7%;
+  margin: 10px 35px 15px;
+}
+
+.carousel-item {
+  padding: 15px 25px;
+}
+
+.minoo {
+  color: #003842;
+  font-family: "Montserrat"
+}
+
+#cta {
+  background-image: linear-gradient(to top, #c4f0dc, #00C2CB);
+  text-align: center;
+  padding: 3rem;
+}
+
+#footer {
+  font-size: 10px;
+  text-align: center;
+}
+
+@media (max-width: 1028px) {
+  .parisa {
+    transform: rotate(0);
+  }
+}
+
+.footer-icon {
+  margin: 0.6rem;
+}
+
+.words {
+  font-size: 2.5rem;
+  color: #003842;
+  margin: 0;
+  font-weight: bold;
+  padding: 0 30px;
+  font-family: "Montserrat";
+}
+
+.click {
+  margin: 2.5rem 0.3rem;
+}
+
+.card {
+  background-color: #c4f0dc;
+}
+
+.navbar-toggler-icon {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+.navbar-toggler {
+  padding: .25rem .75rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  background-color: transparent;
+  border: none;
+ .15s ease-in-out;
+}
+
+.fa-solid {
+  text-align: center;
+}
